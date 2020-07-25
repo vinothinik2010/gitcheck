@@ -1,6 +1,4 @@
 Git Demo
 
-Added commands
-
 
 Demo done successfully
